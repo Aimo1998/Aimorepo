@@ -57,6 +57,25 @@ Author: Netskao
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: byg.iosios.net.floatingdockxvi
+Architecture: iphoneos-arm64
+Version: 2.3
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 812
+Depends: preferenceloader
+Filename: debs/FloatingDock悬浮Dock-Rootless_2.3_iphoneos-arm64.deb
+Size: 398036
+MD5sum: 1d2371c2e0585af2f73e9bea3a3ddd45
+SHA1: c19a100537f888a909df3fcc9d64f7059f02d90e
+SHA256: 746135280f34b5236b1bfaba8e20ed459cf0b20eaf823082060afc1744258821
+SHA512: aa4aaf47bd75a6157d8ec759990f5bc8bda8c68b34e38ef8a2342b939b572bb869625c7f657b1dd434aedbffb8aacf4e1d9403bfe928274a24516bce08fec477
+Description: Floating Dock on iOS 16  让你的Dock栏和iPad一样悬浮起来，并且桌面底板加好几个图标，超过官方限制的4个!本插件仅是官方加搬运工源汉化，无需再单独安装汉化包，毕竟能省一个插件是一个嘛！搬运工源，永久免费，搬你所想！
+Name: FloatingDock悬浮Dock-Rootless
+Author: Ethan Whited
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: byg.iosios.net.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.6-2
@@ -73,6 +92,64 @@ SHA512: 33829808ff5c95834a5264faf7894ddca770a11acef11ef196b728596278c39b362f24ca
 Description: 系统画中画功能增强，基于开源，优化了一些代码，改进了一些细节，长按画中画窗口切换模式，灰色边框为自由模式(即随意放大缩小移动位置)，橙色边框为固定模式(即原生模式)，非常的好用，搬运工源，万古长青！
 Name: FreePIP画中画增强
 Author: Soh Satoh,SINI
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.axs.jikan
+Architecture: iphoneos-arm64
+Version: 2.2-1+debug
+Section: Tweaks
+Maintainer: waruhachi
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/Jikan_锁屏显示充电剩余时间_2.2-1_debug_iphoneos-arm64.deb
+Size: 48284
+MD5sum: 1b466c34d27adf71ff94eae391aea166
+SHA1: 786fdc87d349c24b84dcfbc8d4a246b559f003be
+SHA256: 902cf71b8f7122565cd9dc506c18b08b9728f90c3894d2cc2511429c5d4a4ff2
+SHA512: cb7a958efc3646c6b362e30a9508594aa0bf3a99c8965181a327f5649e89406073c475582d4e09943739693c59aad38a02b58f630740dd43903005af7cac3785
+Description: Show estimate time left to full charge on your lock screen
+Name: Jikan 锁屏显示充电剩余时间
+Author: waruhachi
+Icon: https://axs66.github.io/pro/icon/jikan.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/jikan/js.json
+
+Package: byg.iosios.net.limneoscrack-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-3
+Section: 插件依赖
+Maintainer: 搬运工
+Installed-Size: 152
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: debs/Limneos_插件破解-Rootless_1.1-3_iphoneos-arm64.deb
+Size: 10604
+MD5sum: 7105fb51ce8ba492beda86507e934efe
+SHA1: cc789c0383447135986d58084cf8b65cab1906ea
+SHA256: 7d30ec374610a7e5357e438c8ab414880838b2b3a39da043d2e4108ea1cdaefb
+SHA512: 1e62e68d1477f833e5ba754c4b2fd4cb690c37f53a372c8303c7d99ed9d599ec76a15a42943617e77b4f8e67fcb7d47a76432a864db059cbff0c55e6b9f0c2ad
+Description: 解锁Limneos所有插件全功能通话录音破解、NFC破解等等，可以下载官方插件，再安装本插件进行破解！官方源http://limneos.net/repo
+Name: Limneos 插件破解-Rootless
+Author: Netskao
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.onesettings
+Architecture: iphoneos-arm64
+Version: 2.2.1
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 1084
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
+Filename: debs/OneSettings系统设置美化_2.2.1_iphoneos-arm64.deb
+Size: 270260
+MD5sum: d12716a91750c200dc8b425eb9c0b906
+SHA1: 2fd3161e13d1c2970ad97b32634703c5d6e511a8
+SHA256: 2c03bcb406cc13828506171ef38af1d366e7359b53b9b131c813eedacd06ca19
+SHA512: 8eb6d0d7f8de92da26545d2261c36904fa7b3f5f7f072d2005d3a4dd9b88d12b8ba68f45ce334718f2aca856312dad69b711e580a4b88cd03ecd93b9443a4f07
+Description: OneSettings为设置应用程序带来了全面的个性化界面定制功能，用户可以通过自定义颜色、背景图片和单元格尺寸等来实现独特的设置界面。对于许多iPhone用户而言，设置应用程序是日常使用中不可或缺的一部分，无论是用于调整网络设置、启用/禁用特定功能，还是仅查看设备硬件和软件信息。对于越狱用户来说，设置应用程序更是访问众多插件自定义选项的必经之路。然而，长期以来，设置应用程序的界面设计并未有显著改变，依旧保持着原有的简洁风格。OneSettings，这款由iOS开发人员Nightwind最新推出的越狱插件，旨在为用户提供更加多样化的设置应用程序体验。
+Name: OneSettings系统设置美化
+Author: Nightwind
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
