@@ -18,6 +18,24 @@ Author: Nepeta & Baw Appie & daodao
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: cn.octoforce.copyvault
+Architecture: iphoneos-arm64
+Version: 1.9.0
+Section: 嗨-付费
+Maintainer: SquidForce, Backup
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault
+Filename: debs/CopyVault_激活码版_1.9.0_iphoneos-arm64.deb
+Size: 1671996
+MD5sum: caa2bcfb72017aebe1fb6fa104be0eda
+SHA1: 5a53871bfcb59634c056c177999aa4504d7af79c
+SHA256: be37abfa7e25fff982fb17d393f37b97ab2ef8d50dc1c0c509d0fdbed760e1d9
+SHA512: 8ae09935b16fb22c324dc08c4ed51e6c3aa429ce6997d88f7f4313d2c2b0fc9477d93ba98faa4120de3d3a399accc566ac6f68994d2dd021a52aac976aa9c142
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Your Copy Vault, Your Pasteboard
+Name: CopyVault(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.copyvault/depiction.json
+
 Package: byg.iosios.net.mobilemeadowreborn
 Architecture: iphoneos-arm64
 Version: 1.0.2
@@ -113,6 +131,23 @@ Name: FreePIP画中画增强
 Author: Soh Satoh,SINI
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: com.congcq.hynisloader
+Architecture: iphoneos-arm64
+Version: 1.4.3
+Section: Tweaks
+Maintainer: congcq
+Installed-Size: 108
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/HynisLoader_1.4.3_iphoneos-arm64.deb
+Size: 14096
+MD5sum: bca98ca05ffa10aa41cbfb0fe2b5d3cc
+SHA1: 753198eb7e4e18eed7b7f729bdf1f1ade7f0a9e3
+SHA256: a680c6449781552c828544fa2e39d442403436e0ce304c676f35a9e0aa740e47
+SHA512: d7f4eb5f17924de2a2906d15f4061f1543ceb79f8d8a7a539e9cc4a536b3b3d2b0fedf71a1b18a9fb30f75069853737c151e8fa0b1bf91c3953167dbbc739bf3
+Description: Minecraft: Bedrock Edition tweak for iOS device that allow load RenderDragon Shader from Global Resource Packs.
+Name: HynisLoader
+Author: congcq
 
 Package: com.axs.jikan
 Architecture: iphoneos-arm64
@@ -210,6 +245,25 @@ Author: Nightwind
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: byg.iosios.net.powercuff
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
+Filename: debs/Powercuff省电插件_1.1_iphoneos-arm64.deb
+Size: 13732
+MD5sum: 757725fb52d59c1da16073ba16375686
+SHA1: afc093a132e7deeea3eeca90d0ff9f351911eb23
+SHA256: cc33aa9bf065d55d7d34d76b66a5e4fb41e64ffb1128b6ff8ad73dc85fa4f777
+SHA512: 077c345d9b51a3bbf68263c70cc6dba01de06edad0b93cab475a66f8815a87fae3851a72bc0901829a09e5cf18b6c68330bcea7fde38913ebeb50c561ba2362c
+Description: Select from additional low power device states省电插件，请看插件介绍截图，至于有没有效，请自测，我也不敢乱说，怕被打！搬运工源一直在免费为大家服务，请多多支持！
+Name: Powercuff省电插件
+Author: Ryan Petrich
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: cn.octoforce.squidextender
 Architecture: iphoneos-arm64
 Version: 3.7.4
@@ -283,4 +337,40 @@ SHA512: 69dda9572cd978ca8e2cb9a2bd1888166c5598e87d77ac4f587ed2dbe7ea3bcbfb75325e
 Description: Troll your speed, but jailbroken.
 Name: TrollSpeed JB
 Author: Lessica <82flex@gmail.com>
+
+Package: byg.iosios.net.visibleisland
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: 系统增强
+Maintainer: 搬运工
+Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
+Filename: debs/VisibleIsland开启灵动岛-Rootless_2.0_iphoneos-arm64.deb
+Size: 28748
+MD5sum: c3fcde2de69611100f941e8655034da2
+SHA1: 9ca1b131b45277eced51b622e3758ef96e07ba93
+SHA256: 2c974ef2c8fb8ad40aca08b1d230582bbedd2f507411c137f4364a32c5b32e45
+SHA512: 4c925e17b5689d783ec754e47d7846bb5548445cc2f05e1b4467ecc96a057549c9826069c1c89b07d4d7dd58d4d4230fd61235c27b3e655dc00d785c63ed02b1
+Description: Enable, fix, and customize the Dynamic Island on older devices.VisibleIsland  是一款为老设备但是是iOS16系统的开启灵动岛的插件。主要特点：一键开启灵动岛，免费，简单。支持自定义灵动岛位置。支持自定义通知位置。支持自定义灵动岛透明度和颜色。支持自定义灵动岛比例。VisibleIsland 仅仅支持 iOS 16.0 - 16.6.1 系统。iOS 15 及更低版本系统，请勿安装！请勿安装！请勿安装！原生就有灵动岛的设备，请勿安装！搬运工源已完整汉化，享受吧！
+Name: VisibleIsland开启灵动岛-Rootless
+Author: ethxnn88
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.kaiguang
+Architecture: iphoneos-arm64
+Version: 1.0.0
+Section: 杂七杂八
+Maintainer: 搬运工
+Depends: mobilesubstrate
+Filename: debs/开关按扭-写轮眼_蓝）_1.0.0_iphoneos-arm64.deb
+Size: 43604
+MD5sum: b4820db81a8cc42f1f5caa224074c936
+SHA1: 570d25b9929f935936072b275e32d486d9db6d22
+SHA256: e6378337e1627023ff6d738eec95e3bb87772992aa809a32cd9a662bea1df638
+SHA512: ab212c102e070932b8617d699931a5f4b285ade46e82db16a0ef72a6d417a4e70cbc7680ab30b91dd3976fc8d657514b5624a22e6a5b7935a23f78ae3b82ae5f
+Description: 这是一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。搬运工源，搬你所想！
+Name: 开关按扭-写轮眼(蓝）
+Author: 白衣
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
 
