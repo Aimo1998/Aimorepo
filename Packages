@@ -1,3 +1,62 @@
+Package: byg.iosios.net.axon.rootless
+Architecture: iphoneos-arm64
+Version: 2.5.3.1
+Section: 系统增强
+Maintainer: 搬运工
+Installed-Size: 688
+Depends: mobilesubstrate, firmware (>= 14.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: debs/Axon美化通知_2.5.3.1_iphoneos-arm64.deb
+Size: 156272
+MD5sum: 46cae3f3b25feac983726d3fbb0f6604
+SHA1: dc5ff3c7b53c22655911bf6ede93234a523a8bcb
+SHA256: da202d238ee3290869597e9155995681c1e03b0f5c0d4666b0f4df0a6719e4e3
+SHA512: 19abd290af6d1e6633a78f9b3a9f4f2b5d3accb6430a7da228c2093b500355f8758be4c1a0cce904c1d134578c922d563b34069ca128eb2b11d2326d5d67541e
+Description: 锁屏通知美化。妖刀修复更新支持iOS 16、iOS 17，效果很独特，具体可以看截图介绍！搬运工源这么多年了一直免费，感谢你的支持！
+Name: Axon美化通知
+Author: Nepeta & Baw Appie & daodao
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.eneko
+Architecture: iphoneos-arm64
+Version: 1.4-5
+Section: 系统增强
+Maintainer: 搬运工
+Installed-Size: 644
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: love.litten.eneko
+Filename: debs/Eneko视频动态壁纸_1.4-5_iphoneos-arm64.deb
+Size: 210924
+MD5sum: a482610e89657f3c20995a408ce25ce6
+SHA1: 2f7ca00676f555a590244dba1afb15dc3c749c75
+SHA256: 8f510d94e03a7ef3dfb42bdd210fe2b662c5bb5d07a9a59f419eeaeaa6936109
+SHA512: f20af5c6cea1809656507fddaf83d1b6e72eb3cefd3899eca995adde81a7a7a1bf2e4605bf1722a3360bbe07390784a15c74332557bb088642ad68d5be43e7dc
+Description: Eneko视频壁纸插件，非常的酷炫！装x神器！搬运工源水友SINI根据开源更好的适配新版本！全中文操作！下载插件之后，去系统设置里开启，选择你需要的视频壁纸，然后点右上角妙手回春注销生效！提醒一下，你用了和灵动岛相关的插件，或者分屏什么的，都有可能导致视频壁纸失效，请自己排查！搬运工源，永久免费更新，欢迎大家多多推广，更新才快！一个抵一万个！
+Name: Eneko视频动态壁纸
+Author: Traurige & SINI
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: byg.iosios.net.filzacrack-rootless
+Architecture: iphoneos-arm64
+Version: 1.1-9
+Section: 软件破解
+Maintainer: 搬运工
+Installed-Size: 120
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/Filza_破解插件-Rootless_1.1-9_iphoneos-arm64.deb
+Size: 28872
+MD5sum: fbb11a0a4bc9de0eeafb3be7906d3901
+SHA1: 269ce862fefeb1fa493c547e909e7f73288a562d
+SHA256: 670a6cf23f4780d4f4f0d3f20c4bae7d4527a5f94eddc2cfb5a64b5f85bef546
+SHA512: f277487fa64aab1289bee1f98ceb503c51e023b86451c5c0e92683f70a116ae1ca4e0d19214631a69f03d2a0595de7f02196861edefcc4f0202e57ec562a6b0f
+Description: Filza unlock full functionality, the main program please install in the official source Filza破解插件，请自行安装filza文件管理器，本插件只是破解插件！
+Name: Filza 破解插件-Rootless
+Author: Netskao
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: byg.iosios.net.freepip
 Architecture: iphoneos-arm64
 Version: 0.0.6-2
@@ -16,4 +75,59 @@ Name: FreePIP画中画增强
 Author: Soh Satoh,SINI
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
+
+Package: cn.octoforce.squidextender
+Architecture: iphoneos-arm64
+Version: 3.7.4
+Section: Tweaks
+Maintainer: SquidForce, Backup
+Installed-Size: 9988
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender
+Filename: debs/SquidExtender_激活码版_3.7.4_iphoneos-arm64.deb
+Size: 2286476
+MD5sum: 00312107debc2816e53b85e926a02427
+SHA1: 035fe2ba146c5e1ca86b7852a7207bdb8613dbdb
+SHA256: 003293cac4a2939cf0b4c704acee9aac5dbe2e77a128df9dba7aefb150ce01bd
+SHA512: 70156e9545ff45e67a9087aee3c48026eac227e8f27e2f31151498475d708052a14a6215e4ed250e076eea53e8d9a5acb8540c5c99743b643f81b07eeeb6e463
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！Do not install if you do not have an activation code!!! Extend your keyboard to be more POWERFULL!
+Name: SquidExtender(激活码版)
+Author: SquidForce, Backup
+SileoDepiction: https://lclrc.github.io/repo/depictions/native/cn.octoforce.squidextender/depiction.json
+
+Package: com.axs.squidforce
+Architecture: iphoneos-arm64
+Version: 1.0.1-1
+Section: 破解插件
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: debs/SquidForce_VIP_1.0.1-1_iphoneos-arm64.deb
+Size: 38156
+MD5sum: 4693104b38d52739cd882f5111331275
+SHA1: b0fd15980ae1e17438210305b1a1e6aad48a268b
+SHA256: bab0ea87348b8703ba41a6ff1a62ef5521e17aaf9fa4ed3d871ef7538b336692
+SHA512: 7dfe901aeb3d399f9062a2581038555e4ea3141607e672e1dbc7ae2601c81e9e4d4ee6ee61260cccfdf9d9a4d34a8a77468f61c62bcde04431157cea5cc13d99
+Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，安装即可生效。
+Name: SquidForce VIP
+Author: BVN
+Icon: https://axs66.github.io/pro/icon/squidforce.png
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidforce/js.json
+
+Package: ch.xxtou.hudapp.jb
+Architecture: iphoneos-arm64
+Version: 2.0-13
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 640
+Depends: firmware (>= 14.0)
+Filename: debs/TrollSpeed_JB_2.0-13_iphoneos-arm64.deb
+Size: 163544
+MD5sum: 278add00cbe3fda667d78d2ff3a55fd7
+SHA1: 208eba4a2bb701878d2e12abef13f680471301cb
+SHA256: 0c376cc98a52d9bae8bb3651306cddbadd96a2e57654866d9390a06a683a4b09
+SHA512: 69dda9572cd978ca8e2cb9a2bd1888166c5598e87d77ac4f587ed2dbe7ea3bcbfb75325ecb9b46cfa5f110dd5b57e8c2f99d2370a7dcd3115e193fdc4c7f02c7
+Description: Troll your speed, but jailbroken.
+Name: TrollSpeed JB
+Author: Lessica <82flex@gmail.com>
 
