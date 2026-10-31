@@ -170,6 +170,26 @@ Author: Netskao
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
+Package: byg.iosios.net.noredirects
+Architecture: iphoneos-arm64
+Version: 2.1
+Section: 杂七杂八
+Maintainer: 搬运工
+Installed-Size: 832
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
+Conflicts: com.82flex.noredirect
+Filename: debs/NoRedirect禁止跳转_2.1_iphoneos-arm64.deb
+Size: 90636
+MD5sum: 39958d7c1d260c123ae5ea2272aee8b5
+SHA1: 58c041390741e47a05c04cb6686db1fbe9adfedc
+SHA256: 5c3dcb3223647abc35fe7ab2575970c531b54441e0b21998ecad8fc0cc3a3cc3
+SHA512: 05936bd6aa292fa8d299c1213fed94b53b1af5c5ca14b2bce2f095e5c4a804fdbc210157150c312faf01b5b92717999b8e722b2d7a95ff545a652bc185ccfeb4
+Description: 阻止指定的应用重定向到 App Store、Safari 或其他应用。意思就是防止打开这个软件弹出了广告突然让你去下载另一个应用，或者打开浏览器链接，一款还不错的小插件，需要的用户可以试试！
+Name: NoRedirect禁止跳转
+Author: Lessica
+Sponsor: 搬运工
+Icon: https://chinesebuilding.club/pic/cydia.png
+
 Package: byg.iosios.net.onesettings
 Architecture: iphoneos-arm64
 Version: 2.2.1
