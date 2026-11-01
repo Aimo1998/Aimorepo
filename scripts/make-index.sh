@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"; cd "$ROOT"
-REPO_URL="${REPO_URL:-https://aimo1998.github.io/aimorepo/}"; mkdir -p debs
+REPO_URL="${REPO_URL:-https://Aimo1998.github.io/Aimorepo/}"; mkdir -p debs
 command -v apt-ftparchive >/dev/null 2>&1 || { echo "缺少 apt-ftparchive"; exit 1; }
 DEBS_ABS="$ROOT/debs"
 if apt-ftparchive packages "$DEBS_ABS" >/dev/null 2>&1; then
@@ -23,9 +23,9 @@ gen_hashes(){ local alg="$1"; shift; local f; for f in "$@"; do [ -f "$f" ] || c
   local size; size=$(wc -c < "$f" | tr -d ' '); local h;
   case "$alg" in md5) h=$(md5sum "$f"|awk '{print $1}');; sha256) h=$(sha256sum "$f"|awk '{print $1}');; esac
   printf ' %s  %s %s\n' "$h" "$size" "$f"; done; }
-{ echo "Origin: Aimo's repo"; echo "Label: Aimo's repo"; echo "Suite: stable"; echo "Version: 1.0";
+{ echo "Origin: Aimo's repos"; echo "Label: Aimo's repos"; echo "Suite: stable"; echo "Version: 1.0";
   echo "Codename: ios"; echo "Architectures: iphoneos-arm64 iphoneos-arm64e"; echo "Components: main";
-  echo "Description: Aimo's repo"; echo "Support: $REPO_URL";
+  echo "Description: Aimo's repos"; echo "Support: $REPO_URL";
   # Icon 必须写绝对地址：Sileo/Zebra 只认 Release 里的 Icon 行，不会自己去找 CydiaIcon.png
   echo "Icon: ${REPO_URL%/}/CydiaIcon.png";
   echo "MD5Sum:"; gen_hashes md5 Packages Packages.gz; echo "SHA256:"; gen_hashes sha256 Packages Packages.gz; } > Release
