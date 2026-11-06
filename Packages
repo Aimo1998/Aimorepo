@@ -356,21 +356,3 @@ Author: ethxnn88
 Sponsor: 搬运工
 Icon: https://chinesebuilding.club/pic/cydia.png
 
-Package: byg.iosios.net.kaiguang
-Architecture: iphoneos-arm64
-Version: 1.0.0
-Section: 杂七杂八
-Maintainer: 搬运工
-Depends: mobilesubstrate
-Filename: debs/开关按扭-写轮眼_蓝）_1.0.0_iphoneos-arm64.deb
-Size: 43604
-MD5sum: b4820db81a8cc42f1f5caa224074c936
-SHA1: 570d25b9929f935936072b275e32d486d9db6d22
-SHA256: e6378337e1627023ff6d738eec95e3bb87772992aa809a32cd9a662bea1df638
-SHA512: ab212c102e070932b8617d699931a5f4b285ade46e82db16a0ef72a6d417a4e70cbc7680ab30b91dd3976fc8d657514b5624a22e6a5b7935a23f78ae3b82ae5f
-Description: 这是一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。搬运工源，搬你所想！
-Name: 开关按扭-写轮眼(蓝）
-Author: 白衣
-Sponsor: 搬运工
-Icon: https://chinesebuilding.club/pic/cydia.png
-
