@@ -2,7 +2,7 @@ name: Build Jailbreak Repo
 on:
   push:
     branches: [main]
-    paths: ['debs/**','scripts/**']
+    paths: ['debs/**','scripts/**','sections.json','overrides.json']
   workflow_dispatch:
     inputs:
       reason:
