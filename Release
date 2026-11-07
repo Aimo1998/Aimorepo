@@ -6,11 +6,11 @@ Codename: ios
 Architectures: iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: Aimo‘s repo
-Support: https://Aimo1998.github.io/Aimorepo/
-Icon: https://Aimo1998.github.io/Aimorepo/CydiaIcon.png
+Support: https://Aimo1998.github.io/aimorepo/
+Icon: https://Aimo1998.github.io/aimorepo/CydiaIcon.png
 MD5Sum:
- 52d9795c5a3078564eec0d7e9bb3d08d  19306 Packages
- e02fffd4325ce2da16a02eb763c2e411  8306 Packages.gz
+ 36ea56b93c79f1f03e3d47fe2047c204  19306 Packages
+ d5b7cf6a74ff23618b1f39c0746691f2  8307 Packages.gz
 SHA256:
- 9fadd0f1c473b6dfee49324f513fdd7e6cd4d98f1619ec605bec2e9dd46c8b21  19306 Packages
- f604c3ac03d5eac422131e8fa098d5437b8cf7d1cf930764f24f757ee5898334  8306 Packages.gz
+ 3ff966bdeedb3a9e023bd923a93f65ec43c266e27d07d70ec3359174838cd9b8  19306 Packages
+ 7f47c7064766b94cf4ca8b9c50dd49096a21b7f2922c36d6deb3db36195f92fd  8307 Packages.gz
