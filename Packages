@@ -6,7 +6,7 @@ Maintainer: 搬运工
 Installed-Size: 688
 Depends: mobilesubstrate, firmware (>= 14.0)
 Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
-Filename: debs/Axon美化通知_2.5.3.1_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/Axon美化通知_2.5.3.1_iphoneos-arm64.deb
 Size: 156272
 MD5sum: 46cae3f3b25feac983726d3fbb0f6604
 SHA1: dc5ff3c7b53c22655911bf6ede93234a523a8bcb
@@ -25,7 +25,7 @@ Section: 嗨-付费
 Maintainer: SquidForce, Backup
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
 Conflicts: com.squidforce.copyvault
-Filename: debs/CopyVault_激活码版_1.9.0_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/CopyVault_激活码版_1.9.0_iphoneos-arm64.deb
 Size: 1671996
 MD5sum: caa2bcfb72017aebe1fb6fa104be0eda
 SHA1: 5a53871bfcb59634c056c177999aa4504d7af79c
@@ -43,7 +43,7 @@ Section: 杂七杂八
 Maintainer: 搬运工
 Installed-Size: 3848
 Depends: dev.theos.orion14, firmware (>= 14.0)
-Filename: debs/Dock鲜花草地_1.0.2_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/Dock鲜花草地_1.0.2_iphoneos-arm64.deb
 Size: 2402552
 MD5sum: c22211b61e79c5de36838f22f46ff11d
 SHA1: b1ee7de634ca494ac99a3fbf71af87931c4014a1
@@ -63,7 +63,7 @@ Maintainer: 搬运工
 Installed-Size: 644
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
 Conflicts: love.litten.eneko
-Filename: debs/Eneko视频动态壁纸_1.4-5_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/Eneko视频动态壁纸_1.4-5_iphoneos-arm64.deb
 Size: 210924
 MD5sum: a482610e89657f3c20995a408ce25ce6
 SHA1: 2f7ca00676f555a590244dba1afb15dc3c749c75
@@ -82,7 +82,7 @@ Section: 软件破解
 Maintainer: 搬运工
 Installed-Size: 120
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/Filza_破解插件-Rootless_1.1-9_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/Filza_破解插件-Rootless_1.1-9_iphoneos-arm64.deb
 Size: 28872
 MD5sum: fbb11a0a4bc9de0eeafb3be7906d3901
 SHA1: 269ce862fefeb1fa493c547e909e7f73288a562d
@@ -101,7 +101,7 @@ Section: 杂七杂八
 Maintainer: 搬运工
 Installed-Size: 812
 Depends: preferenceloader
-Filename: debs/FloatingDock悬浮Dock-Rootless_2.3_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/FloatingDock悬浮Dock-Rootless_2.3_iphoneos-arm64.deb
 Size: 398036
 MD5sum: 1d2371c2e0585af2f73e9bea3a3ddd45
 SHA1: c19a100537f888a909df3fcc9d64f7059f02d90e
@@ -120,7 +120,7 @@ Section: 系统增强
 Maintainer: 搬运工
 Installed-Size: 440
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/FreePIP画中画增强_0.0.6-2_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/FreePIP画中画增强_0.0.6-2_iphoneos-arm64.deb
 Size: 44088
 MD5sum: 90c11b415c1a5ebd96557998c258e4ff
 SHA1: d78fd6067ef61c37b313e98b0f6dce9bf9c76b8d
@@ -139,7 +139,7 @@ Section: Tweaks
 Maintainer: congcq
 Installed-Size: 108
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/HynisLoader_1.4.3_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/HynisLoader_1.4.3_iphoneos-arm64.deb
 Size: 14096
 MD5sum: bca98ca05ffa10aa41cbfb0fe2b5d3cc
 SHA1: 753198eb7e4e18eed7b7f729bdf1f1ade7f0a9e3
@@ -156,7 +156,7 @@ Section: Tweaks
 Maintainer: waruhachi
 Installed-Size: 528
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: debs/Jikan_锁屏显示充电剩余时间_2.2-1_debug_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/Jikan_锁屏显示充电剩余时间_2.2-1_debug_iphoneos-arm64.deb
 Size: 48284
 MD5sum: 1b466c34d27adf71ff94eae391aea166
 SHA1: 786fdc87d349c24b84dcfbc8d4a246b559f003be
@@ -174,7 +174,7 @@ Version: 0.3
 Section: 杂七杂八
 Maintainer: 搬运工
 Installed-Size: 432
-Filename: debs/LSTimeSeconds时间显秒-Rootless_0.3_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/LSTimeSeconds时间显秒-Rootless_0.3_iphoneos-arm64.deb
 Size: 38268
 MD5sum: 32c9eb9a151789a6a4992bc6602afc4a
 SHA1: f7f16849dde8ff7a2b82facf1e3fe0fb0081c68a
@@ -193,7 +193,7 @@ Section: 插件依赖
 Maintainer: 搬运工
 Installed-Size: 152
 Depends: mobilesubstrate, firmware (>= 15.0)
-Filename: debs/Limneos_插件破解-Rootless_1.1-3_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/Limneos_插件破解-Rootless_1.1-3_iphoneos-arm64.deb
 Size: 10604
 MD5sum: 7105fb51ce8ba492beda86507e934efe
 SHA1: cc789c0383447135986d58084cf8b65cab1906ea
@@ -213,7 +213,7 @@ Maintainer: 搬运工
 Installed-Size: 832
 Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.altlist, com.opa334.libsandy
 Conflicts: com.82flex.noredirect
-Filename: debs/NoRedirect禁止跳转_2.1_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/NoRedirect禁止跳转_2.1_iphoneos-arm64.deb
 Size: 90636
 MD5sum: 39958d7c1d260c123ae5ea2272aee8b5
 SHA1: 58c041390741e47a05c04cb6686db1fbe9adfedc
@@ -233,7 +233,7 @@ Maintainer: 搬运工
 Installed-Size: 1084
 Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
 Conflicts: com.shepgoba.settingswidgets, com.creaturecoding.shuffle
-Filename: debs/OneSettings系统设置美化_2.2.1_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/OneSettings系统设置美化_2.2.1_iphoneos-arm64.deb
 Size: 270260
 MD5sum: d12716a91750c200dc8b425eb9c0b906
 SHA1: 2fd3161e13d1c2970ad97b32634703c5d6e511a8
@@ -252,7 +252,7 @@ Section: 杂七杂八
 Maintainer: 搬运工
 Installed-Size: 176
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: debs/Powercuff省电插件_1.1_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/Powercuff省电插件_1.1_iphoneos-arm64.deb
 Size: 13732
 MD5sum: 757725fb52d59c1da16073ba16375686
 SHA1: afc093a132e7deeea3eeca90d0ff9f351911eb23
@@ -272,7 +272,7 @@ Maintainer: SquidForce, Backup
 Installed-Size: 9988
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Conflicts: com.squidforce.squidextender
-Filename: debs/SquidExtender_激活码版_3.7.4_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/SquidExtender_激活码版_3.7.4_iphoneos-arm64.deb
 Size: 2286476
 MD5sum: 00312107debc2816e53b85e926a02427
 SHA1: 035fe2ba146c5e1ca86b7852a7207bdb8613dbdb
@@ -290,7 +290,7 @@ Section: 破解插件
 Maintainer: BVN
 Installed-Size: 328
 Depends: firmware (>= 15.0), mobilesubstrate
-Filename: debs/SquidForce_VIP_1.0.1-1_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/SquidForce_VIP_1.0.1-1_iphoneos-arm64.deb
 Size: 38156
 MD5sum: 4693104b38d52739cd882f5111331275
 SHA1: b0fd15980ae1e17438210305b1a1e6aad48a268b
@@ -310,7 +310,7 @@ Maintainer: SquidForce, Backup
 Installed-Size: 6620
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
-Filename: debs/SquidGesturePro_激活码_2.7.6-1_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/SquidGesturePro_激活码_2.7.6-1_iphoneos-arm64.deb
 Size: 1767756
 MD5sum: 44b43c676f66ac1bba153696bbab9948
 SHA1: cee80a1e71e65dd0161d37b752ddda549f02433a
@@ -328,7 +328,7 @@ Section: Tweaks
 Maintainer: Lessica <82flex@gmail.com>
 Installed-Size: 640
 Depends: firmware (>= 14.0)
-Filename: debs/TrollSpeed_JB_2.0-13_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/TrollSpeed_JB_2.0-13_iphoneos-arm64.deb
 Size: 163544
 MD5sum: 278add00cbe3fda667d78d2ff3a55fd7
 SHA1: 208eba4a2bb701878d2e12abef13f680471301cb
@@ -344,7 +344,7 @@ Version: 2.0
 Section: 系统增强
 Maintainer: 搬运工
 Depends: firmware (>= 16.0), mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 16.0)
-Filename: debs/VisibleIsland开启灵动岛-Rootless_2.0_iphoneos-arm64.deb
+Filename: https://Aimo1998.github.io/Aimorepo/debs/VisibleIsland开启灵动岛-Rootless_2.0_iphoneos-arm64.deb
 Size: 28748
 MD5sum: c3fcde2de69611100f941e8655034da2
 SHA1: 9ca1b131b45277eced51b622e3758ef96e07ba93
