@@ -1,5 +1,5 @@
-Origin: Aimo's repo
-Label: Aimo's repo
+Origin: Aimo's repo
+Label: Aimo's repo
 Suite: stable
 Version: 1.0
 Codename: ios
@@ -10,7 +10,7 @@ Support: https://aimo1998.github.io/aimorepo/
 Icon: https://aimo1998.github.io/aimorepo/CydiaIcon.png
 MD5Sum:
  15a015670814e8a60804d90dd50395fd  19306 Packages
- 081596869d0b8952f9ce3f14e077fb85  8305 Packages.gz
+ 053d5734174ed3b33aed5b1ef9239bd8  8305 Packages.gz
 SHA256:
  c10d022f51bcbeab6b2b543a8ac934d119ca37627b39a99e8791e0f6f05454e1  19306 Packages
- f315969361aa419cc8851331d060d345f4ea911450b377950569822f3a87dee2  8305 Packages.gz
+ 2bcd0782efbd2e58461caf264740669728ba3ffa0d38b348e2642d7b83d1f5bb  8305 Packages.gz
