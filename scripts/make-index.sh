@@ -1,14 +1,14 @@
 #!/usr/bin/env bash
 set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"; cd "$ROOT"
-REPO_URL="${REPO_URL:-https://Aimo1998.github.io/Aimorepo/}"; mkdir -p debs
+REPO_URL="${REPO_URL:-https://aimo1998.github.io/Aimorepo/}"; mkdir -p debs
 command -v apt-ftparchive >/dev/null 2>&1 || { echo "缺少 apt-ftparchive"; exit 1; }
 DEBS_ABS="$ROOT/debs"
 if apt-ftparchive packages "$DEBS_ABS" >/dev/null 2>&1; then
-  apt-ftparchive packages "$DEBS_ABS" | sed "s#^Filename: .*/#Filename: debs/#" > Packages
+  apt-ftparchive packages "$DEBS_ABS" | sed "s#^Filename: .*/#Filename: ${REPO_URL}debs/#" > Packages
 else
   SCAN="$(mktemp -d)/debs"; mkdir -p "$SCAN"; cp -f "$DEBS_ABS"/*.deb "$SCAN"/ 2>/dev/null || true
-  apt-ftparchive packages "$SCAN" | sed "s#^Filename: .*/#Filename: debs/#" > Packages
+  apt-ftparchive packages "$SCAN" | sed "s#^Filename: .*/#Filename: ${REPO_URL}debs/#" > Packages
 fi
 # 注意：脚本开启了 set -e，可选的 override 步骤必须用 if 包裹，
 # 否则没有 overrides.json 时 [ -f ] 返回 1 会让整个脚本提前退出，
